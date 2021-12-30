@@ -1,0 +1,1 @@
+java -jar "bundletool-all-1.8.2.jar" build-apks --bundle="211124_28.aab" --output="universal28.apks" --mode=universal
